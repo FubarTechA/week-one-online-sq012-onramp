@@ -8,5 +8,15 @@
   },
   "dependencies": {
     "jest": "^27.5.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FubarTechA/week-one-online-sq012-onramp.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/FubarTechA/week-one-online-sq012-onramp/issues"
+  },
+  "homepage": "https://github.com/FubarTechA/week-one-online-sq012-onramp#readme",
+  "description": ""
 }
